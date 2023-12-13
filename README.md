@@ -1,6 +1,6 @@
-![npm](https://img.shields.io/npm/v/react-meta-tags-hook)
-![npm peer dependency version](https://img.shields.io/npm/dependency-version/react-meta-tags-hook/peer/react)
-![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-meta-tags-hook)
+![npm](https://img.shields.io/npm/v/skunklabs-react-meta-tags-hook)
+![npm peer dependency version](https://img.shields.io/npm/dependency-version/skunklabs-react-meta-tags-hook/peer/react)
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/skunklabs-react-meta-tags-hook)
 
 # React MetaTags Hook
 React hook to dynamically update HTML meta tags.
